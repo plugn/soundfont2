@@ -26,7 +26,6 @@ typings/
 .next
 
 # Webpack
-lib
 
 # Docs
 _book
